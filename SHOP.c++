@@ -15,7 +15,8 @@ using namespace std;
 /**
  * @file SHOP.c++
  * @brief serves as the entry point to the program
- * @authors Isaac Sakyi, Miracle Adams, 
+ * @authors Isaac Sakyi, Miracle Adams, Donkor Samuel Osei
+
 */
 
 int main(int argc, char *argv[])
